@@ -10,7 +10,7 @@
 - 📫 How to reach me:
 **Discord:**
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/494516173338312714?theme=light&bg=fff387&hideDiscrim=true&borderRadius=2px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/494516173338312714)
+[![Discord Presence](https://lanyard.cnrad.dev/api/494516173338312714?theme=light&bg=77665a&hideDiscrim=true&borderRadius=20px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/494516173338312714)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

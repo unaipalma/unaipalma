@@ -7,7 +7,8 @@
 
 - 🤝 I’m looking to collaborate on **some python projects**
 
-- 📫 How to reach me **Discord: unaipalma**
+- 📫 How to reach me:
+[![Discord Presence](https://lanyard.cnrad.dev/api/494516173338312714)](https://discord.com/users/494516173338312714)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

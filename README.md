@@ -8,6 +8,7 @@
 - 🤝 I’m looking to collaborate on **some python projects**
 
 - 📫 How to reach me:
+
 **Discord:**
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/494516173338312714?theme=light&bg=77665a&hideDiscrim=true&borderRadius=20px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/494516173338312714)
